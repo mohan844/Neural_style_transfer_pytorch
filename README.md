@@ -27,7 +27,8 @@ To get started with Neural Style Transfer, follow these steps:
 Check out these visually stunning examples created using Neural Style Transfer:
 
 - [Content_image](https://drive.google.com/file/d/1hUUG-ISzYkMJVSaaAEuLKdmN6eGdZ8B5/view?usp=drive_link)
-- [Content_image](https://drive.google.com/file/d/1hUUG-ISzYkMJVSaaAEuLKdmN6eGdZ8B5/view?usp=drive_link)
+- [Style_image](https://drive.google.com/file/d/1v4vUbDFIFisWTNuAqJjfibYPaPmfXBc1/view?usp=drive_link)
+- [Generated_image](https://drive.google.com/file/d/1DR1pyNTGqSOrGJTPR2ebLb3W0t4FgMuk/view?usp=drive_link)
 
 
 
