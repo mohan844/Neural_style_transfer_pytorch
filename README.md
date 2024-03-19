@@ -26,17 +26,11 @@ To get started with Neural Style Transfer, follow these steps:
 
 Check out these visually stunning examples created using Neural Style Transfer:
 
-- [Example 1](link-to-example-1)
-- [Example 2](link-to-example-2)
-- [Example 3](link-to-example-3)
+- [Content_image](https://drive.google.com/file/d/1hUUG-ISzYkMJVSaaAEuLKdmN6eGdZ8B5/view?usp=drive_link)
+- [Style_image]([link-to-example-1](https://drive.google.com/file/d/1v4vUbDFIFisWTNuAqJjfibYPaPmfXBc1/view?usp=sharing))
+- [Generated_image]([link-to-example-1](https://drive.google.com/file/d/1DR1pyNTGqSOrGJTPR2ebLb3W0t4FgMuk/view?usp=drive_link))
 
-## Contributing
 
-Contributions are welcome! If you have any ideas, bug fixes, or enhancements, feel free to open an issue or submit a pull request.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](link-to-license-file) file for details.
 
 ## Acknowledgements
 
